@@ -1,0 +1,107 @@
+BasicInfo:
+  FirstName: Thays
+  LastName: Bitencourt
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +55 (11) 95320-6180
+    - Icon: fas fa-envelope
+      Info: thays.n.silva@gmail.com
+      Info: thaysnbitencourt@gmail.com
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/thays-nascimento-bitencourt-0079131bb/" target="_blank">LinkedIn</a>
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://thaysbitencourt.github.io/" target="_blank">https://thaysbitencourt.github.io/</a>
+    - Icon: fas fa-map-marker-alt
+      Info: São Paulo - Brasil
+
+Profile: Profissional com [X] anos de experiência sólida na área administrativa, evoluindo da recepção ao secretariado executivo. Expertise em gestão de agenda complexa, organização de viagens nacionais, logística de reuniões de diretoria e elaboração de documentos e apresentações. Habilidade comprovada em comunicação clara e eficaz, com forte vocação para solução prática de problemas, discrição absoluta no manejo de informações sensíveis e orientação para resultados. Altamente organizada, proativa e comprometida em oferecer suporte de excelência à diretoria, contribuindo para a produtividade e o bom funcionamento da operação.
+
+Experience:
+  - Employer: IBET - Instituto Brasileiro de Estudos Tributários
+    Place: São Paulo - SP
+    Positions:
+      - Title: Secretária
+        Date: Jan 2020 - Atual
+        Details:
+          - Gerenciamento complexo e dinâmico da agenda de diretor, incluindo o agendamento de reuniões, videoconferências e compromissos.
+          - Organização completa de viagens nacionais, incluindo reservas de passagens aéreas, hospedagem, traslados e elaboração de roteiros detalhados e cronograma de atividades.
+          - Elaboração, formatação e distribuição de atas, relatórios gerenciais, apresentações executivas em PowerPoint e documentos corporativos, garantindo confidencialidade e padrão formal.
+          - Triagem e atendimento de ligações e e-mails, direcionando assuntos prioritários e solucionando demandas com autonomia e agilidade.
+          - Interface direta com clientes, investidores, fornecedores e líderes de outras áreas, atuando como gateway de comunicação da diretoria.
+          - Organização de eventos corporativos, como reuniões de diretoria, workshops e confraternizações.
+          - Controle de despesas e elaboração de planilhas de custos para prestação de contas.
+        # Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+      - Title: Recepcionista
+        Date: Mar 2019 - Jan 2020
+        Details:
+          - Primeiro contato da empresa, responsável pelo atendimento presencial e telefônico.
+          - Recebimento, registro e distribuição de correspondências, encomendas e documentos.
+          - Apoio às áreas administrativas com tarefas de apoio, como organização de arquivos, preparação de malotes e suprimentos para escritório.
+        # Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+
+#  - Employer: Lógica - Segurança e Vigilância
+#    Place: São Paulo, SP
+#    Positions:
+#      - Title: Recepcionista
+#        Date: Jan 2018 - Mar 2019
+#        Details:
+#          - Atendimento telefônico e recepção de visitas.
+#          - Suporte à equipe do departamento comercial com organização de documentação e relatórios.
+#          - Controle de arquivos físicos e digitais, garantindo a fácil localização e o acesso à informação.
+#        Badges: ['Pacote Office', 'Redação Oficial e Corporativa', 'CSS', 'C#/Unity']
+
+Education:
+  - Course: Bacharelado em Direito (Cursando - 6º Semestre)
+    Place: FADISP - Faculdade Autônoma de Direito
+    Date: Sep 2022 - Atualmente
+    Details: Ênfase em Direito Empresarial, Civil e Trabalhista, desenvolvendo competências em análise crítica, interpretação de textos legais, complementando diretamente a atuação no ambiente corporativo.
+
+  - Course: Técnico em Secretariado
+    Place: ETEC - Escola Técnica Estadual | São Paulo - SP
+    Date: Jan 2018 - Mar 2019
+    Details: Focada em técnicas secretariais, redação oficial e comercial, arquivologia, gestão de documentos, ética profissional e organização de eventos, fornecendo a base técnica essencial para a carreira.
+
+References:
+  - Name: Nome do Antigo Gestor
+    Relation: Gerente/Diretor de [Departamento]
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +55 (11) 9999-9999
+    - Icon: fas fa-envelope
+      Info: nome@gmail.com
+    
+Skills:
+  - Family: Comunicação e Relacionamento
+    Items:
+      - Comunicação Clara e Assertiva
+      - Escrita Formal
+      - Atendimento a Clientes
+      - Inteligência Emocional
+  - Family: Organização e Eficiência
+    Items:
+      - Gestão do Tempo e Priorização
+      - Proatividade e Iniciativa'
+      - Organização e Método'
+  - Family: Pensamento e Execução
+    Items:
+      - Discrição e Confidencialidade
+      - Adaptabilidade e Resiliência
+      - Aprendizado Contínuo
+  - Family: Misc
+
+Languages:
+  - Name: Português
+    Level: Nativo
+  - Name: Inglês
+    Level: Intermediário
+  - Name: Espanhol
+    Level: Básico
+
+Diplomas:
+  - Curso de Secretária Executiva e Gestão de Processos (ETEC)
+
+Interests:
+  - Tecnologia e Novas Ferramentas de Produtividade
+  - Desenvolvimento Pessoal
+  - Direito Civil e Tributário
