@@ -1,5 +1,5 @@
 BasicInfo:
-  FirstName: Thays
+  FirstName: Thays Nascimento
   LastName: Bitencourt
   Photo: img/avatar.jpg
   Contacts:
@@ -7,8 +7,7 @@ BasicInfo:
       Info: +55 (11) 95320-6180
     - Icon: fas fa-envelope
       Info: thays.n.silva@gmail.com
-      Info: thaysnbitencourt@gmail.com
-    - Icon: fas fa-globe
+    - Icon: fa-brands fa-linkedin-in
       Info: <a class="contact__link" href="https://www.linkedin.com/in/thays-nascimento-bitencourt-0079131bb/" target="_blank">LinkedIn</a>
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://thaysbitencourt.github.io/" target="_blank">https://thaysbitencourt.github.io/</a>
@@ -31,14 +30,12 @@ Experience:
           - Interface direta com clientes, investidores, fornecedores e líderes de outras áreas, atuando como gateway de comunicação da diretoria.
           - Organização de eventos corporativos, como reuniões de diretoria, workshops e confraternizações.
           - Controle de despesas e elaboração de planilhas de custos para prestação de contas.
-        # Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
       - Title: Recepcionista
         Date: Mar 2019 - Jan 2020
         Details:
           - Primeiro contato da empresa, responsável pelo atendimento presencial e telefônico.
           - Recebimento, registro e distribuição de correspondências, encomendas e documentos.
           - Apoio às áreas administrativas com tarefas de apoio, como organização de arquivos, preparação de malotes e suprimentos para escritório.
-        # Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
 
 #  - Employer: Lógica - Segurança e Vigilância
 #    Place: São Paulo, SP
