@@ -1,5 +1,5 @@
 BasicInfo:
-  FirstName: Thays Nascimento
+  FirstName: Thays N.
   LastName: Bitencourt
   Photo: img/avatar.jpg
   Contacts:
@@ -10,11 +10,11 @@ BasicInfo:
     - Icon: fab fa-linkedin-in
       Info: <a class="contact__link" href="https://www.linkedin.com/in/thays-nascimento-bitencourt-0079131bb/" target="_blank">LinkedIn</a>
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://thaysbitencourt.github.io/" target="_blank">https://thaysbitencourt.github.io/</a>
+      Info: <a class="contact__link" href="https://thaysbitencourt.github.io/" target="_blank">https://thaysbitencourt.github.io</a>
     - Icon: fas fa-map-marker-alt
       Info: São Paulo - Brasil
 
-Profile: Profissional com [X] anos de experiência sólida na área administrativa, evoluindo da recepção ao secretariado executivo. Expertise em gestão de agenda complexa, organização de viagens nacionais, logística de reuniões de diretoria e elaboração de documentos e apresentações. Habilidade comprovada em comunicação clara e eficaz, com forte vocação para solução prática de problemas, discrição absoluta no manejo de informações sensíveis e orientação para resultados. Altamente organizada, proativa e comprometida em oferecer suporte de excelência à diretoria, contribuindo para a produtividade e o bom funcionamento da operação.
+Profile: Profissional com 7 anos de experiência sólida na área administrativa, evoluindo da recepção ao secretariado executivo. Expertise em gestão de agenda complexa, organização de viagens nacionais, logística de reuniões de diretoria e elaboração de documentos e apresentações. Habilidade comprovada em comunicação clara e eficaz, com forte vocação para solução prática de problemas, discrição absoluta no manejo de informações sensíveis e orientação para resultados. Altamente organizada, proativa e comprometida em oferecer suporte de excelência à diretoria, contribuindo para a produtividade e o bom funcionamento da operação.
 
 Experience:
   - Employer: IBET - Instituto Brasileiro de Estudos Tributários
