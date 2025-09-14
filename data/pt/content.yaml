@@ -7,7 +7,7 @@ BasicInfo:
       Info: +55 (11) 95320-6180
     - Icon: fas fa-envelope
       Info: thays.n.silva@gmail.com
-    - Icon: fa-brands fa-linkedin-in
+    - Icon: fab fa-linkedin-in
       Info: <a class="contact__link" href="https://www.linkedin.com/in/thays-nascimento-bitencourt-0079131bb/" target="_blank">LinkedIn</a>
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://thaysbitencourt.github.io/" target="_blank">https://thaysbitencourt.github.io/</a>
@@ -20,8 +20,8 @@ Experience:
   - Employer: IBET - Instituto Brasileiro de Estudos Tributários
     Place: São Paulo - SP
     Positions:
-      - Title: Secretária
-        Date: Jan 2020 - Atual
+      - Title: Secretária de Diretoria
+        Date: Setembro 2018 - Atual
         Details:
           - Gerenciamento complexo e dinâmico da agenda de diretor, incluindo o agendamento de reuniões, videoconferências e compromissos.
           - Organização completa de viagens nacionais, incluindo reservas de passagens aéreas, hospedagem, traslados e elaboração de roteiros detalhados e cronograma de atividades.
@@ -31,22 +31,21 @@ Experience:
           - Organização de eventos corporativos, como reuniões de diretoria, workshops e confraternizações.
           - Controle de despesas e elaboração de planilhas de custos para prestação de contas.
       - Title: Recepcionista
-        Date: Mar 2019 - Jan 2020
+        Date: Fevereiro 2018 - Julho 2018
         Details:
           - Primeiro contato da empresa, responsável pelo atendimento presencial e telefônico.
           - Recebimento, registro e distribuição de correspondências, encomendas e documentos.
           - Apoio às áreas administrativas com tarefas de apoio, como organização de arquivos, preparação de malotes e suprimentos para escritório.
 
-#  - Employer: Lógica - Segurança e Vigilância
+#  - Employer: FG Prestadora de Serviços de Limpeza e Manutenção LTDA
 #    Place: São Paulo, SP
 #    Positions:
 #      - Title: Recepcionista
-#        Date: Jan 2018 - Mar 2019
+#        Date: Fevereiro 2018 - Julho 2018
 #        Details:
 #          - Atendimento telefônico e recepção de visitas.
 #          - Suporte à equipe do departamento comercial com organização de documentação e relatórios.
 #          - Controle de arquivos físicos e digitais, garantindo a fácil localização e o acesso à informação.
-#        Badges: ['Pacote Office', 'Redação Oficial e Corporativa', 'CSS', 'C#/Unity']
 
 Education:
   - Course: Bacharelado em Direito (Cursando - 6º Semestre)
@@ -95,8 +94,8 @@ Languages:
   - Name: Espanhol
     Level: Básico
 
-Diplomas:
-  - Curso de Secretária Executiva e Gestão de Processos (ETEC)
+# Diplomas:
+  # - Curso de Secretária Executiva e Gestão de Processos (ETEC)
 
 Interests:
   - Tecnologia e Novas Ferramentas de Produtividade
