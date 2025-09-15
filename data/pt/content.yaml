@@ -24,14 +24,13 @@ Experience:
         Date: Set 2018 - Atual
         Details:
           - Gerenciamento complexo e dinâmico da agenda de diretor, incluindo o agendamento de reuniões, videoconferências e compromissos.
-          - Organização completa de viagens nacionais e interncaionais, incluindo reservas de passagens aéreas, hospedagem, translados e elaboração de roteiros detalhados e cronograma de atividades.
-          - Elaboração, formatação e distribuição de atas, relatórios gerenciais e documentos corporativos, garantindo confidencialidade e padrão formal.
+          - Organização completa de viagens nacionais e interncaionais, incluindo reservas de passagens aéreas, hospedagem e translados.
+          - Elaboração, formatação e distribuição de documentos corporativos, garantindo confidencialidade e padrão formal.
           - Triagem e atendimento de ligações e e-mails, direcionando assuntos prioritários e solucionando demandas com autonomia e agilidade.
           - Interface direta com clientes, investidores, fornecedores e líderes de outras áreas, atuando como gateway de comunicação da diretoria.
           - Organização de eventos corporativos, como reuniões de diretoria, workshops e confraternizações.
-          - Controle de despesas e elaboração de planilhas de custos para prestação de contas.
       - Title: Recepcionista
-        Date: Fevereiro 2018 - Julho 2018
+        Date: Fev 2018 - Jul 2018
         Details:
           - Primeiro contato da empresa, responsável pelo atendimento presencial e telefônico.
           - Recebimento, registro e distribuição de correspondências, encomendas e documentos.
@@ -59,32 +58,39 @@ Education:
     Details: Focada em técnicas secretariais, redação oficial e comercial, arquivologia, gestão de documentos, ética profissional e organização de eventos, fornecendo a base técnica essencial para a carreira.
 
 References:
-  - Name: Nome do Antigo Gestor
-    Relation: Gerente/Diretor de [Departamento]
+  - Name: Leomara Novaes
+    Relation: Gerente de Recursos Humanos
     Contacts:
     - Icon: fas fa-phone
-      Info: +55 (11) 9999-9999
-    - Icon: fas fa-envelope
-      Info: nome@gmail.com
+      Info: +55 (11) 99450-3104
+    # - Icon: fas fa-envelope
+    #   Info: nome@gmail.com
     
 Skills:
   - Family: Comunicação e Relacionamento
     Items:
-      - Comunicação Clara e Assertiva
-      - Escrita Formal
-      - Atendimento a Clientes
-      - Inteligência Emocional
+      - Clareza e objetividade
+      - Escuta ativa e empatia
+      - Escrita formal
+      - Discrição e confidencialidade
+      - Atendimento a clientes
+      - Inteligência emocional
   - Family: Organização e Eficiência
     Items:
-      - Gestão do Tempo e Priorização
-      - Proatividade e Iniciativa'
-      - Organização e Método'
+      - Planejamento e priorização de tarefas
+      - Gestão eficaz do tempo
+      - Atenção a detalhes
+      - Trabalhar com prazos curtos
+      - Proatividade e iniciativa
+      - Organização e Método
   - Family: Pensamento e Execução
     Items:
-      - Discrição e Confidencialidade
-      - Adaptabilidade e Resiliência
-      - Aprendizado Contínuo
-  - Family: Misc
+      - Visão analítica e tomada de decisões
+      - Foco em resultados e metas
+      - Autonomia com responsabilidade
+      - Discrição e confidencialidade
+      - Adaptabilidade e resiliência
+      - Aprendizado contínuo
 
 Languages:
   - Name: Português
@@ -94,10 +100,6 @@ Languages:
   - Name: Espanhol
     Level: Básico
 
-# Diplomas:
-  # - Curso de Secretária Executiva e Gestão de Processos (ETEC)
-
 Interests:
-  - Tecnologia e Novas Ferramentas de Produtividade
-  - Desenvolvimento Pessoal
+  - Desenvolvimento Pessoal e Profissional
   - Direito Civil e Tributário
