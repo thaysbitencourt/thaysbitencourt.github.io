@@ -1,5 +1,5 @@
 BasicInfo:
-  FirstName: Thays Nascimento
+  FirstName: Thays
   LastName: Bitencourt
   Photo: img/avatar.jpg
   Contacts:
@@ -63,8 +63,6 @@ References:
     Contacts:
     - Icon: fas fa-phone
       Info: +55 (11) 99450-3104
-    # - Icon: fas fa-envelope
-    #   Info: nome@gmail.com
     
 Skills:
   - Family: Comunicação e Relacionamento
@@ -85,10 +83,10 @@ Skills:
       - Organização e Método
   - Family: Pensamento e Execução
     Items:
-      - Visão analítica e tomada de decisões
+      - Visão analítica
+      - Tomada de decisões
       - Foco em resultados e metas
       - Autonomia com responsabilidade
-      - Discrição e confidencialidade
       - Adaptabilidade e resiliência
       - Aprendizado contínuo
 
@@ -99,7 +97,3 @@ Languages:
     Level: Intermediário
   - Name: Espanhol
     Level: Básico
-
-Interests:
-  - Desenvolvimento Pessoal e Profissional
-  - Direito Civil e Tributário
