@@ -1,13 +1,13 @@
 .content {
     position: absolute;
     overflow: hidden;
-    
+
     &__left {
         float: left;
         width: $width-left-col;
         height: 100%;
         padding: 3rem 4rem;
-        /*
+
         @media screen {
             &::after {
                 content: '2020 © by Inês Almeida   |   ines-almeida.com';
@@ -18,9 +18,8 @@
                 color: darken($color-light, 10%);
             }
         }
-        */
     }
-    
+
     &__right {
         position: absolute;
         float: right;
