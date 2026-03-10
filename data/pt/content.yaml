@@ -14,27 +14,44 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: São Paulo - Brasil
 
-Profile: Profissional com 7 anos de experiência como Secretária Executiva, com trajetória que demonstra evolução da recepção à atuação direta com a diretoria. Competência na gestão de agendas, organização de viagens nacionais e internacionais, logística de reuniões, videoconferências, compromissos de diretoria e preparação de documentos. Comunicação clara e eficaz, discrição absoluta no manejo de informações sensíveis e foco em resultados. Organizada, proativa e comprometida em oferecer um suporte de excelência à diretoria, contribuindo para a produtividade e o bom funcionamento da operação.
+# Profile: Profissional com 7 anos de experiência como Secretária Executiva, com trajetória que demonstra evolução da recepção à atuação direta com a diretoria. Competência na gestão de agendas, organização de viagens nacionais e internacionais, logística de reuniões, videoconferências, compromissos de diretoria e preparação de documentos. Comunicação clara e eficaz, discrição absoluta no manejo de informações sensíveis e foco em resultados. Organizada, proativa e comprometida em oferecer um suporte de excelência à diretoria, contribuindo para a produtividade e o bom funcionamento da operação.
+
+# Profile: Secretária Executiva com 7 anos de experiência em suporte à diretoria, atuando na gestão de agendas, organização de viagens e coordenação de reuniões corporativas e videoconferências.<br>Experiência em interface com clientes e lideranças, comunicação corporativa e redação formal, gestão de documentos corporativos com alto nível de confidencialidade.<br>Destaca-se pela organização, proatividade e gestão eficientes de prioridades, contribuindo para a produtividade da diretoria e para a fluidez das operações administrativas.
+
+Profile: Estudante de Direito (8º semestre) com experiência profissional em ambiente institucional e suporte à diretoria. Possuo vivência em organização de documentos, gestão de informações confidenciais e comunicação corporativa.<br>Experiência em rotinas administrativas, organização de agendas institucionais, elaboração de documentos formais e interface com profissionais da área jurídica e tributária.<br>Busco oportunidade de estágio jurídico para desenvolver competências práticas em pesquisa jurídica, análise documental e apoio a atividades processuais.
 
 Experience:
+  - Employer: GN - Gordilho e Napolitano Advogados
+    Place: São Paulo - SP
+    Positions:
+      - Title: Secretária Executiva Sênior
+        Date: Set 2026 - Atual
+        Details:
+          - Atuar como ponto de contato principal, filtrando chamadas, e-mails e solicitações.
+          - Controle rigoroso de compromissos, reuniões e viagens, priorizando demandas da diretoria. 
+          - Elaboração de correspondências formais e relatórios.
+          - Apoio administrativo e financeiro, organização de arquivos digitais e físicos, garantindo a confidencialidade de informações.
+          - Controle de orçamentos, conferência de notas fiscais de despesas do executivo.
+          
   - Employer: IBET - Instituto Brasileiro de Estudos Tributários
     Place: São Paulo - SP
     Positions:
       - Title: Secretária de Diretoria
-        Date: Set 2018 - Atual
+        Date: Set 2018 - Dez 2025
         Details:
           - Gerenciamento complexo e dinâmico da agenda de diretor, incluindo o agendamento de reuniões, videoconferências e compromissos.
-          - Organização completa de viagens nacionais e interncaionais, incluindo reservas de passagens aéreas, hospedagem e translados.
+          - Organização completa de viagens, incluindo reservas de passagens aéreas e hospedagem.
           - Elaboração, formatação e distribuição de documentos corporativos, garantindo confidencialidade e padrão formal.
-          - Triagem e atendimento de ligações e e-mails, direcionando assuntos prioritários e solucionando demandas com autonomia e agilidade.
-          - Interface direta com clientes, investidores, fornecedores e líderes de outras áreas, atuando como gateway de comunicação da diretoria.
-          - Organização de eventos corporativos, como reuniões de diretoria e workshopss.
-      - Title: Recepcionista
-        Date: Fev 2018 - Jul 2018
-        Details:
-          - Primeiro contato da empresa, responsável pelo atendimento presencial e telefônico.
-          - Recebimento, registro e distribuição de correspondências, encomendas e documentos.
-          - Apoio às áreas administrativas com tarefas de apoio, como organização de arquivos, preparação de malotes e suprimentos para escritório.
+          - Atendimento e triagem de ligações e e-mails estratégicos, priorizando demandas da diretoria. 
+          - Interface direta com clientes, investidores, fornecedores e líderes de outras áreas.
+          - Organização de eventos corporativos, workshops e reuniões institucionais.
+
+    #  - Title: Recepcionista
+    #    Date: Fev 2018 - Jul 2018
+    #    Details:
+    #      - Primeiro contato da empresa, responsável pelo atendimento presencial e telefônico.
+    #      - Recebimento, registro e distribuição de correspondências, encomendas e documentos.
+    #      - Apoio às áreas administrativas com tarefas de apoio, como organização de arquivos, preparação de malotes e suprimentos para escritório.
 
 #  - Employer: FG Prestadora de Serviços de Limpeza e Manutenção LTDA
 #    Place: São Paulo, SP
@@ -47,15 +64,15 @@ Experience:
 #          - Controle de arquivos físicos e digitais, garantindo a fácil localização e o acesso à informação.
 
 Education:
-  - Course: Bacharelado em Direito (Cursando - 7º Semestre)
+  - Course: Bacharelado em Direito (Cursando - 8º Semestre)
     Place: FADISP - Faculdade Autônoma de Direito
     Date: Fev 2021 - Atual
     Details: Ênfase nos conhecimentos teóricos e práticos de diversas áreas do direito, com destaque para o desenvolvimento de habilidades de compreensão das leis e técnicas de processo jurídico, voltada para a prática profissional e atuação na área jurídica.
 
-  - Course: Técnico em Secretariado
-    Place: ETEC - Escola Técnica Estadual | São Paulo - SP
-    Date: Jan 2019 - Jul 2020
-    Details: Focada em técnicas secretariais, redação oficial e comercial, arquivologia, gestão de documentos, ética profissional e organização de eventos.
+#  - Course: Técnico em Secretariado
+#    Place: ETEC - Escola Técnica Estadual | São Paulo - SP
+#    Date: Jan 2019 - Jul 2020
+#    Details: Focada em técnicas secretariais, redação oficial e comercial, arquivologia, gestão de documentos, ética profissional e organização de eventos.
 
 References:
   - Name: Maria Leonor Leite Vieira
@@ -74,27 +91,28 @@ Skills:
   - Family: Comunicação e Relacionamento
     Items:
       - Clareza e objetividade
-      - Escuta ativa e empatia
       - Escrita formal
       - Discrição e confidencialidade
-      - Atendimento a clientes
-      - Inteligência emocional
+      - Inteligência emocional<br><br>
   - Family: Organização e Eficiência
     Items:
-      - Planejamento e priorização de tarefas
       - Gestão eficaz do tempo
       - Atenção a detalhes
-      - Trabalhar com prazos curtos
       - Proatividade e iniciativa
-      - Organização e Método
+      - Organização e Método<br><br>
   - Family: Pensamento e Execução
     Items:
       - Visão analítica
-      - Tomada de decisões
-      - Foco em resultados e metas
       - Autonomia com responsabilidade
       - Adaptabilidade e resiliência
-      - Aprendizado contínuo
+      - Aprendizado 
+  
+Interests:
+  - Direito Tributário
+  - Direito Civil
+  - Direito Empresarial
+  - Pesquisa Jurídica
+  - Análise de Documentos Jurídicos
 
 Languages:
   - Name: Português
