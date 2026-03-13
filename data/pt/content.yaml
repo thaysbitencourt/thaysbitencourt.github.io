@@ -21,17 +21,17 @@ Profile: Secretária Executiva com 7 anos de experiência em suporte à diretori
 # Profile: Estudante de Direito (8º semestre) com experiência profissional em ambiente institucional e suporte à diretoria. Possuo vivência em organização de documentos, gestão de informações confidenciais e comunicação corporativa.<br>Experiência em rotinas administrativas, organização de agendas institucionais, elaboração de documentos formais e interface com profissionais da área jurídica e tributária.<br>Busco oportunidade de estágio jurídico para desenvolver competências práticas em pesquisa jurídica, análise documental e apoio a atividades processuais.
 
 Experience:
-  - Employer: GN - Gordilho e Napolitano Advogados
-    Place: São Paulo - SP
-    Positions:
-      - Title: Secretária Executiva Sênior
-        Date: Dez 2025 - Atual
-        Details:
-          - Atuar como ponto de contato principal, filtrando chamadas, e-mails e solicitações.
-          - Controle rigoroso de compromissos, reuniões e viagens, priorizando demandas da diretoria. 
-          - Elaboração de correspondências formais e relatórios.
-          - Apoio administrativo e financeiro, organização de arquivos digitais e físicos, garantindo a confidencialidade de informações.
-          - Controle de orçamentos, conferência de notas fiscais de despesas do executivo.
+  #- Employer: GN - Gordilho e Napolitano Advogados
+  #  Place: São Paulo - SP
+  #  Positions:
+  #    - Title: Secretária Executiva Sênior
+  #      Date: Dez 2025 - Atual
+  #      Details:
+  #        - Atuar como ponto de contato principal, filtrando chamadas, e-mails e solicitações.
+  #        - Controle rigoroso de compromissos, reuniões e viagens, priorizando demandas da diretoria. 
+  #        - Elaboração de correspondências formais e relatórios.
+  #        - Apoio administrativo e financeiro, organização de arquivos digitais e físicos, garantindo a confidencialidade de informações.
+  #        - Controle de orçamentos, conferência de notas fiscais de despesas do executivo.
           
   - Employer: IBET - Instituto Brasileiro de Estudos Tributários
     Place: São Paulo - SP
@@ -46,12 +46,12 @@ Experience:
           - Interface direta com clientes, investidores, fornecedores e líderes de outras áreas.
           - Organização de eventos corporativos, workshops e reuniões institucionais.
 
-    #  - Title: Recepcionista
-    #    Date: Fev 2018 - Jul 2018
-    #    Details:
-    #      - Primeiro contato da empresa, responsável pelo atendimento presencial e telefônico.
-    #      - Recebimento, registro e distribuição de correspondências, encomendas e documentos.
-    #      - Apoio às áreas administrativas com tarefas de apoio, como organização de arquivos, preparação de malotes e suprimentos para escritório.
+      - Title: Recepcionista
+        Date: Fev 2018 - Jul 2018
+        Details:
+          - Primeiro contato da empresa, responsável pelo atendimento presencial e telefônico.
+          - Recebimento, registro e distribuição de correspondências, encomendas e documentos.
+          - Apoio às áreas administrativas com tarefas de apoio, como organização de arquivos, preparação de malotes e suprimentos para escritório.
 
 #  - Employer: FG Prestadora de Serviços de Limpeza e Manutenção LTDA
 #    Place: São Paulo, SP
