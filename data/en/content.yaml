@@ -1,116 +1,116 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
+  FirstName: Thays
+  LastName: Bitencourt
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: +55 (11) 95320-6180
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: thays.nat.silva@gmail.com
+    - Icon: fab fa-linkedin-in
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/thays-nascimento-bitencourt-0079131bb/" target="_blank">LinkedIn</a>
     - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: <a class="contact__link" href="https://thaysbitencourt.github.io/" target="_blank">https://thaysbitencourt.github.io</a>
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: São Paulo - Brasil
 
-Profile: Deutscher Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+# Profile: Profissional com 7 anos de experiência como Secretária Executiva, com trajetória que demonstra evolução da recepção à atuação direta com a diretoria. Competência na gestão de agendas, organização de viagens nacionais e internacionais, logística de reuniões, videoconferências, compromissos de diretoria e preparação de documentos. Comunicação clara e eficaz, discrição absoluta no manejo de informações sensíveis e foco em resultados. Organizada, proativa e comprometida em oferecer um suporte de excelência à diretoria, contribuindo para a produtividade e o bom funcionamento da operação.
+
+# Profile: Secretária Executiva com 7 anos de experiência em suporte à diretoria, atuando na gestão de agendas, organização de viagens e coordenação de reuniões corporativas e videoconferências.<br>Experiência em interface com clientes e lideranças, comunicação corporativa e redação formal, gestão de documentos corporativos com alto nível de confidencialidade.<br>Destaca-se pela organização, proatividade e gestão eficientes de prioridades, contribuindo para a produtividade da diretoria e para a fluidez das operações administrativas.
+
+Profile: Estudante de Direito (8º semestre) com experiência profissional em ambiente institucional e suporte à diretoria. Possuo vivência em organização de documentos, gestão de informações confidenciais e comunicação corporativa.<br>Experiência em rotinas administrativas, organização de agendas institucionais, elaboração de documentos formais e interface com profissionais da área jurídica e tributária.<br>Busco oportunidade de estágio jurídico para desenvolver competências práticas em pesquisa jurídica, análise documental e apoio a atividades processuais.
 
 Experience:
-  - Employer: Super Coole Firma
-    Place: Oxford, UK
+  - Employer: IBET - Instituto Brasileiro de Estudos Tributários
+    Place: São Paulo - SP
     Positions:
-      - Title: Software Entwicklerin
-        Date: Jan 2020 - Jetzt
+      - Title: Secretária de Diretoria
+        Date: Set 2018 - Dez 2025
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Testerin
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Eine andere Supertolle Firma
-    Place: Lisbon, PT
-    Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
-        Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
-        Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Gerenciamento complexo e dinâmico da agenda de diretor, incluindo o agendamento de reuniões, videoconferências e compromissos.
+          - Organização completa de viagens, incluindo reservas de passagens aéreas e hospedagem.
+          - Elaboração, formatação e distribuição de documentos corporativos, garantindo confidencialidade e padrão formal.
+          - Atendimento e triagem de ligações e e-mails estratégicos, priorizando demandas da diretoria. 
+          - Interface direta com clientes, investidores, fornecedores e líderes de outras áreas.
+          - Organização de eventos corporativos, workshops e reuniões institucionais.
+          - Atuar como ponto de contato principal, filtrando chamadas, e-mails e solicitações.
+          - Controle rigoroso de compromissos, reuniões e viagens, priorizando demandas da diretoria. 
+          - Elaboração de correspondências formais e relatórios.
+          - Apoio administrativo e financeiro, organização de arquivos digitais e físicos, garantindo a confidencialidade de informações.
+          - Controle de orçamentos, conferência de notas fiscais de despesas do executivo.
+
+    #  - Title: Recepcionista
+    #    Date: Fev 2018 - Jul 2018
+    #    Details:
+    #      - Primeiro contato da empresa, responsável pelo atendimento presencial e telefônico.
+    #      - Recebimento, registro e distribuição de correspondências, encomendas e documentos.
+    #      - Apoio às áreas administrativas com tarefas de apoio, como organização de arquivos, preparação de malotes e suprimentos para escritório.
+
+#  - Employer: FG Prestadora de Serviços de Limpeza e Manutenção LTDA
+#    Place: São Paulo, SP
+#    Positions:
+#      - Title: Recepcionista
+#        Date: Fev 2018 - Jul 2018
+#        Details:
+#          - Atendimento telefônico e recepção de visitas.
+#          - Suporte à equipe do departamento comercial com organização de documentação e relatórios.
+#          - Controle de arquivos físicos e digitais, garantindo a fácil localização e o acesso à informação.
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: Bacharelado em Direito (Cursando - 8º Semestre)
+    Place: FADISP - Faculdade Autônoma de Direito
+    Date: Fev 2021 - Atual
+    Details: Ênfase nos conhecimentos teóricos e práticos de diversas áreas do direito, com destaque para o desenvolvimento de habilidades de compreensão das leis e técnicas de processo jurídico, voltada para a prática profissional e atuação na área jurídica.
 
+#  - Course: Técnico em Secretariado
+#    Place: ETEC - Escola Técnica Estadual | São Paulo - SP
+#    Date: Jan 2019 - Jul 2020
+#    Details: Focada em técnicas secretariais, redação oficial e comercial, arquivologia, gestão de documentos, ética profissional e organização de eventos.
+
+References:
+  - Name: Maria Leonor Leite Vieira
+    Relation: Diretora do IGA-IDEPE (Instituto Internacional de Direito Público e Empresarial)
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +55 (11) 3668-6944
+  
+  - Name: Leomara Novaes
+    Relation: Gerente de Recursos Humanos
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +55 (11) 99450-3104
+    
 Skills:
-  - Family: Programming
+  - Family: Comunicação e Relacionamento
     Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
+      - Clareza e objetividade
+      - Escrita formal
+      - Discrição e confidencialidade
+      - Inteligência emocional<br><br>
+  - Family: Organização e Eficiência
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
+      - Gestão eficaz do tempo
+      - Atenção a detalhes
+      - Proatividade e iniciativa
+      - Organização e Método<br><br>
+  - Family: Pensamento e Execução
     Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
-  - Family: Misc
-    Items:
-      - Adobe Tools
-      - LaTeX
+      - Visão analítica
+      - Autonomia com responsabilidade
+      - Adaptabilidade e resiliência
+      - Aprendizado 
+  
+Interests:
+  - Direito Tributário
+  - Direito Civil
+  - Direito Empresarial
+  - Pesquisa Jurídica
+  - Análise de Documentos Jurídicos
 
 Languages:
-  - Name: Portuguese
-    Level: Native
-  - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
-
-Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
-
-Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+  - Name: Português
+    Level: Nativo
+  - Name: Inglês
+    Level: Intermediário
+  - Name: Espanhol
+    Level: Básico
