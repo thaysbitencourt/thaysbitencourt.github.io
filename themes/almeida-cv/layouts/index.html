@@ -20,7 +20,7 @@
         {{ if .Site.Params.swapColumns }}
         <div class="content__right content__swapped__right">
         {{ else }}
-        <div class="content__right">
+        <div class="content__right" style="padding-left: 20px;padding-right: 20px;">
         {{ end }}
             {{ partial "_avatar.html" $data }}
             {{ partial "_contacts.html" $data }}
