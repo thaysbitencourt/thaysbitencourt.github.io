@@ -1,5 +1,8 @@
 {{ if .BasicInfo.Contacts }}
 <div class="sideSection contact">
+    <div class="sideSection__heading">
+        <h2 class="sideSection__title">{{ i18n "contact" }}</h2>
+    </div>
     <ul>
         {{ range .BasicInfo.Contacts }}
         <li class="contact__item">

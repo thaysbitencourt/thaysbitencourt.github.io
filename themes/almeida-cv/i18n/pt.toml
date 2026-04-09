@@ -21,3 +21,6 @@ other = "Diplomas"
 
 [interests]
 other = "Interesses"
+
+[contact]
+other = "Contato"
