@@ -8,7 +8,7 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: thays.nat.silva@gmail.com
     - Icon: fab fa-linkedin-in
-      Info: <a class="contact__link" href="https://www.linkedin.com/in/thays-nascimento-bitencourt-0079131bb/" target="_blank">LinkedIn</a>
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/thaysbitencourt" target="_blank">www.linkedin.com/in/thaysbitencourt</a>
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://thaysbitencourt.github.io/" target="_blank">https://thaysbitencourt.github.io</a>
     - Icon: fas fa-map-marker-alt
